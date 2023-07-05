@@ -1,6 +1,0 @@
-C:\Users\squev\source\repos\Engine\bin\Release\Engine.dll
-C:\Users\squev\source\repos\Engine\bin\Release\Engine.pdb
-C:\Users\squev\source\repos\Engine\obj\Release\Engine.csproj.AssemblyReference.cache
-C:\Users\squev\source\repos\Engine\obj\Release\Engine.csproj.CoreCompileInputs.cache
-C:\Users\squev\source\repos\Engine\obj\Release\Engine.dll
-C:\Users\squev\source\repos\Engine\obj\Release\Engine.pdb
